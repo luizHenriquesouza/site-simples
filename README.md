@@ -25,17 +25,13 @@ $ git clone https://github.com/luizHenriquesouza/site-simples.git
 #Entrar no diretório
 $ cd site-simples
 ```
-```bash
-#Instalar dependências
-$ npm install 
-```
 
 ```bash
-#Iniciar servidor
+#Iniciar servidor via terminal
 $ npm start
 ```
 
 ```bash
 #Visualizar no Browser
--- digite localhost:5000
+http://localhost:5000
 ```
