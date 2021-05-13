@@ -12,7 +12,7 @@
 - HTML5
 - CSS3
 - JavaScript
-- Node.js
+- Nunjucks
 
 ### ⚠️ Como testar em seu ambiente ⚠️
 
